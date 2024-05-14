@@ -1,0 +1,104 @@
+{
+  "utilisateurs": [
+    {
+      "id": "2029",
+      "nomUtilisateur": "luvyjifim",
+      "emailUtilisateur": "favoximuby@mailinator.com",
+      "motDePasse": "Pa$$w0rd!",
+      "motDePasseConfirmation": "Pa$$w0rd!"
+    },
+    {
+      "id": "4ce7",
+      "nomUtilisateur": "vata@mailinator.com",
+      "emailUtilisateur": "febycasu@mailinator.com",
+      "motDePasse": "Pa$$w0rd!",
+      "motDePasseConfirmation": "Pa$$w0rd!"
+    },
+    {
+      "id": "ba12",
+      "nomUtilisateur": "pifuwuwu@mailinator.com",
+      "emailUtilisateur": "bomyg@mailinator.com",
+      "motDePasse": "Pa$$w0rd!",
+      "motDePasseConfirmation": "Pa$$w0rd!"
+    },
+    {
+      "id": "7298",
+      "nomUtilisateur": "roduxy@mailinator.com",
+      "emailUtilisateur": "zywahy@mailinator.com",
+      "motDePasse": "Pa$$w0rd!",
+      "motDePasseConfirmation": "Pa$$w0rd!"
+    },
+    {
+      "id": "a0fd",
+      "nomUtilisateur": "Fatou ",
+      "emailUtilisateur": "Fatou@mailinator.com",
+      "motDePasse": "Fatou1234",
+      "motDePasseConfirmation": "Fatou1234"
+    }
+  ],
+  "publications": [
+    {
+      "id": "8ba4",
+      "contenu": "Les étudiants vivent des expériences uniques et formatrices, confrontés à des défis académiques, sociaux et personnels qui contribuent à leur développement personnel. Ils apprennent à gérer leur temps, à travailler en équipe, à résoudre des problèmes, et à développer des compétences qui leur seront utiles tout au long de leur vie.",
+      "image": "https://img.freepik.com/photos-gratuite/celebration-journee-internationale-education_23-2150931160.jpg?t=st=1715609292~exp=1715612892~hmac=c42b188bd5b99ceea05c2d9d438e256b68bcb0520ea782d0136f8c7e9c8e122a&w=1060",
+      "idUtilisateur": "2029",
+      "datePublication": "2024-05-13T14:10:06.691Z",
+      "likePublication": 0,
+      "auteur": "luvyjifim"
+    },
+    {
+      "id": "408a",
+      "contenu": "D'un autre côté, il y a des filles qui préfèrent une présence plus discrète sur les réseaux sociaux, utilisant ces plateformes de manière plus privée pour rester en contact avec leur cercle proche ou pour consommer du contenu qui les intéresse",
+      "image": "https://img.freepik.com/photos-gratuite/portrait-jolie-femme-afro-americaine-qui-rit_171337-8735.jpg?t=st=1715609442~exp=1715613042~hmac=3ea39137a60f93cb09bee4d46650e2cb878fdfccefac5bc05352c8bf78adf547&w=996",
+      "idUtilisateur": "2029",
+      "datePublication": "2024-05-13T14:12:01.147Z",
+      "likePublication": 0,
+      "auteur": "luvyjifim"
+    },
+    {
+      "id": "d333",
+      "contenu": "Le tabagisme est la principale cause de maladies graves telles que le cancer (poumon, gorge, bouche, etc.), les maladies cardiovasculaires, les maladies respiratoires (comme la bronchite chronique et l'emphysème), et les maladies vasculaires périphériques.",
+      "image": "https://img.freepik.com/photos-gratuite/vue-elevee-cigarette-cassee-toile-fond-blanc_23-2148043800.jpg?t=st=1715612779~exp=1715616379~hmac=c1a4dde90bb65985c3a024279260c91625098ed3c3436fa6cbaa93c249132090&w=740",
+      "idUtilisateur": "2029",
+      "datePublication": "2024-05-13T15:07:38.685Z",
+      "likePublication": 0,
+      "auteur": "luvyjifim"
+    },
+    {
+      "id": "8d60",
+      "contenu": "Distractions numériques : Les jeunes sont souvent attirés par les écrans et les divertissements numériques tels que les réseaux sociaux, les jeux vidéo et les vidéos en ligne. Ces distractions peuvent prendre du temps qui aurait autrement été consacré à la lecture.",
+      "image": "https://img.freepik.com/photos-gratuite/actualite-economique_1098-13686.jpg?t=st=1715613896~exp=1715617496~hmac=9500d1e9be7e765b62a7da74122963352d329e12e5718f5db131e3e372d346fd&w=996",
+      "idUtilisateur": "2029",
+      "datePublication": "2024-05-13T15:26:15.866Z",
+      "likePublication": 0,
+      "auteur": "luvyjifim"
+    },
+    {
+      "id": "d86a",
+      "contenu": "\nL'immobilier fait référence au secteur économique qui englobe l'achat, la vente, la location et la gestion de biens immobiliers tels que des maisons, des appartements, des terrains, des immeubles commerciaux et industriels, etc. C'est un domaine très diversifié qui joue un rôle essentiel dans l'économie mondiale.🏠 \n",
+      "image": "https://img.freepik.com/photos-gratuite/femme-montrant-main-mini-maison-concept-etat-reel-ai-generative_123827-24098.jpg?t=st=1715626497~exp=1715630097~hmac=207ea70d2b3c01420faa0f795dff9f89b469a5b3109b62cd8b15d28cb24f9b67&w=996",
+      "idUtilisateur": "2029",
+      "datePublication": "2024-05-13T18:55:56.996Z",
+      "likePublication": 0,
+      "auteur": "luvyjifim"
+    },
+    {
+      "id": "a848",
+      "contenu": "dara dakoul guinar\n",
+      "image": "https://img.freepik.com/photos-premium/poulet-roti-feu-frites-isolees-pour-restaurants-annonces-affiches-photos-stock-nourriture_714950-299.jpg?w=740",
+      "idUtilisateur": "2029",
+      "datePublication": "2024-05-13T20:02:55.570Z",
+      "likePublication": 0,
+      "auteur": "luvyjifim"
+    },
+    {
+      "id": "9bdf",
+      "contenu": "Encourager la participation active des femmes dans la prise de décision politique et dans les postes de leadership est crucial pour leur développement. Cela comprend l'augmentation de la représentation des femmes dans les instances gouvernementales, les entreprises, les organisations de la société civile, et la promotion du leadership féminin dans tous les secteurs de la société.",
+      "image": "https://img.freepik.com/photos-premium/portrait-plusieurs-belles-jeunes-femmes-noires-fond-lumineux_79782-6822.jpg?w=1060",
+      "idUtilisateur": "a0fd",
+      "datePublication": "2024-05-14T13:45:34.178Z",
+      "likePublication": 0,
+      "auteur": "Fatou "
+    }
+  ]
+}
